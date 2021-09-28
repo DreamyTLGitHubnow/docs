@@ -1,4 +1,4 @@
----
+Update creating email noreply in GutHub and further teafing
 title: Setting your commit email address
 intro: 'You can set the email address that is used to author commits on {% data variables.product.product_name %} and on your computer.'
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
   - /articles/setting-your-commit-email-address
   - /github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address
   - /github/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
-versions:
+versions: dreamytld21@gmail.com
   fpt: '*'
   ghes: '*'
   ghae: '*'
@@ -21,7 +21,7 @@ topics:
   - Notifications
 shortTitle: Set commit email address
 ---
-## About commit email addresses
+Dreamu4GitHubAbout commit email addresses
 
 {% data variables.product.product_name %} uses your commit email address to associate commits with your {% data variables.product.product_name %} account. You can choose the email address that will be associated with the commits you push from the command line as well as web-based Git operations you make.
 
