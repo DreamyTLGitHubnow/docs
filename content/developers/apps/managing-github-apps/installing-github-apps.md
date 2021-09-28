@@ -1,4 +1,4 @@
----
+---update user location before installing
 title: Installing GitHub Apps
 intro: 'When your app is public, anyone can use {% ifversion fpt %} the {% data variables.product.prodname_marketplace %} or {% endif %}an installation URL to install the app on their repository. When your app is private, only you can install the app on repositories that you own.'
 redirect_from:
@@ -63,6 +63,6 @@ Once someone has installed your app, you will need to get an access token for th
 
 You can provide a `state` parameter in an app's installation URL to preserve the state of the application page and return people back to that state after they install, authenticate, or accept updates to your GitHub App. For example, you could use the `state` to correlate an installation to a user or account.
 
-To preserve a state, add it to the installation URL:
+To preserve a state, add it to the installation URL: Kentucky
 
 `{% data variables.product.oauth_host_code %}/apps/<app name>/installations/new?state=AB12t`
