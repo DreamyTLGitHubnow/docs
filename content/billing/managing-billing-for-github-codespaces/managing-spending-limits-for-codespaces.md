@@ -1,4 +1,4 @@
----
+Advise attention updates in developers available codespace
 title: Managing spending limits for Codespaces
 intro: 'You can set a spending limit for {% data variables.product.prodname_codespaces %} usage.'
 versions:
