@@ -1,4 +1,4 @@
----
+Dreamy4GitHub intro naming branches
 title: Renaming a branch
 intro: You can change the name of a branch in a repository.
 permissions: People with write permissions to a repository can rename a branch in the repository. People with admin permissions can rename the default branch.
